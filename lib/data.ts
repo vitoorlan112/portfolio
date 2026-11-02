@@ -15,8 +15,8 @@ export const profile = {
   email: "vito.linggau@gmail.com",
   github: "https://github.com/vitoorlan112",
   linkedin: "https://www.linkedin.com/in/vito-orlando-49611b445",
-  instagram: "", // add your Instagram URL to show the button
-  cv: "/cv.pdf",
+  instagram: "https://www.instagram.com/vito_orland55/",
+  cv: "/Vito_Orlando_CV.pdf",
 };
 
 export const story =
